@@ -1,3 +1,7 @@
 # vue-demo-project
 
-https://vue-demo-project-neiiivjzjv.now.sh/00/
+https://n-v-demo-xjpotwcxel.now.sh
+
+`npm i http-server -g`
+
+`http-server .`
